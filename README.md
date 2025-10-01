@@ -6,12 +6,15 @@ Quentin a initier le projet et réalisé les tests effectués sur les fonctions 
 
 #différence entre les commandes
 
-switch : commande explicite qui permet de changer de branche ||| checkout : commande qui permet de restaurer des fichier ou permet de créer une branche 
+switch : commande explicite qui permet de changer de branche 
+checkout : commande qui permet de restaurer des fichier ou permet de créer une branche 
 
 
-fetch : commande qui permet de récupérer les nouveaux commit sans pour autant les intégrer à la branche active ||| pull : commande qui utilise 'fetch' puis fusionne dans la branche active
+fetch : commande qui permet de récupérer les nouveaux commit sans pour autant les intégrer à la branche active 
+pull : commande qui utilise 'fetch' puis fusionne dans la branche active
 
-rebase : rejoue les commits d’une branche sur une autre base, réécrit l’historique pour obtenir une ligne de commits plus propre ||| revert : cela créer un nouveaux commit et qui annule les changements d'un autre commit précis mais qui ne réécris pas l'historique 
+rebase : rejoue les commits d’une branche sur une autre base, réécrit l’historique pour obtenir une ligne de commits plus propre
+revert : cela créer un nouveaux commit et qui annule les changements d'un autre commit précis mais qui ne réécris pas l'historique 
 
 #description des commandes 
 
