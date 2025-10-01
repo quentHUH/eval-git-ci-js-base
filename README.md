@@ -23,3 +23,9 @@ tag : permet de marquer un commit précis
 stash : peut servir pour sauvegarder des changements sans faire de commit
 
 release : permet de créer une version stable du projet pour ensuite la publier sur GitHub
+
+Commandes utlisés :
+git merge 
+git checkout 
+npx jest 
+git fetch origin/main
