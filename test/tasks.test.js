@@ -15,8 +15,8 @@ test('addTask adds a task correctly', () => {
 });
 
 test('addTask trims whitespace from task name', () => {
-  const task = addTask('   Trimmed task   ');
-  expect(task.name).toBe('Trimmed task');
+  const task = addTask('   Trimmed task noConflict   ');
+  expect(task.name).toBe('Trimmed task noConflict');
 });
 
 test('addTask throws error for invalid names', () => {
