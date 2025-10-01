@@ -19,5 +19,7 @@ revert : cela créer un nouveaux commit et qui annule les changements d'un autre
 #description des commandes 
 
 tag : permet de marquer un commit précis 
+
 stash : peut servir pour sauvegarder des changements sans faire de commit
+
 release : permet de créer une version stable du projet pour ensuite la publier sur GitHub
